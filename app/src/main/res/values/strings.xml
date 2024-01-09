@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lesson1410</string>
+    <string name="week_nav_title">Неделя</string>
+    <string name="day_nav_title">Сегодня</string>
+    <string name="cabinet"><u>Кабинет: </u>%1$s</string>
+    <string name="predmet"><u>Предмет: </u>%1$s</string>
+    <string name="presenter"><u>Преподаватель: </u>%1$s</string>
+    <string-array name="spinner_number_week">
+        <item>Неделя 1</item>
+        <item>Неделя 2</item>
+    </string-array>
+</resources>
